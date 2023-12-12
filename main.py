@@ -13,3 +13,6 @@ for i in m:
         right = right[::-1]
     if left == right:
         print(i)
+
+
+
